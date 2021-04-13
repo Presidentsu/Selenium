@@ -1,2 +1,2 @@
-grep 'click' erp_grades.side | wc -l
+cat [filename].side | grep -c 'click' 
  
