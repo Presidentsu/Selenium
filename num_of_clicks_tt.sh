@@ -1,2 +1,2 @@
-cat erp_timetable.side | grep -c click
+cat [filename].side | grep -c click
  
